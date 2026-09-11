@@ -8,9 +8,12 @@ Trong chương trình Toán học phổ thông, hàm trùng phương là một t
 Lý do tôi chọn đề tài này xuất phát từ sự hứng thú cá nhân đối với các dạng toán cực trị của hàm trùng phương. Trong quá trình học tập, tôi nhận thấy các tài liệu hiện hành chủ yếu tập trung vào việc cung cấp các công thức tính nhanh mà thiếu đi phần giải thích, chứng minh bản chất toán học một cách chi tiết và bài bản.
 
 Chính vì vậy, trong khoảng thời gian 2 tuần thực hiện dự án, đề tài tập trung trình bày các nội dung cốt lõi sau:
-*Hệ thống kiến thức cơ bản: Cung cấp đầy đủ các lý thuyết nền tảng và tính chất quan trọng của hàm trùng phương.
-*Phân loại các dạng toán cực trị: Tổng hợp các dạng bài tập hay gặp liên quan đến cực trị của đồ thị hàm số.
-*Chứng minh các công thức tính nhanh: Xây dựng lời giải chi tiết và chứng minh chặt chẽ từng kết quả để đi đến các công thức rút gọn.
+
+* Hệ thống kiến thức cơ bản: Cung cấp đầy đủ các lý thuyết nền tảng và tính chất quan trọng của hàm trùng phương.
+
+* Phân loại các dạng toán cực trị: Tổng hợp các dạng bài tập hay gặp liên quan đến cực trị của đồ thị hàm số.
+
+* Chứng minh các công thức tính nhanh: Xây dựng lời giải chi tiết và chứng minh chặt chẽ từng kết quả để đi đến các công thức rút gọn.
 
 Thông qua việc chứng minh bản chất, đề tài hướng tới mục tiêu nâng cao khả năng mô hình hóa toán học, giúp học sinh hiểu rõ nguồn gốc của từng công thức. Từ đó, người học không chỉ dễ nhớ, nhớ lâu hơn mà còn chủ động áp dụng các công thức tính nhanh vào những bài toán trắc nghiệm đòi hỏi tốc độ trong các kỳ thi.
 
@@ -42,6 +45,7 @@ Dự án gồm:
 * Dạng toán về số cực trị.
 * Dạng toán về cực trị tạo thành các hình đặc biệt.
 * Dạng toán kết hợp tìm m.
+
   Mỗi dạng bài gồm:
   1. Phương pháp giải.
   2. Công thức tính nhanh (nếu có).
