@@ -15,3 +15,12 @@ Chứng minh các công thức tính nhanh: Xây dựng lời giải chi tiết 
 Thông qua việc chứng minh bản chất, đề tài hướng tới mục tiêu nâng cao khả năng mô hình hóa toán học, giúp học sinh hiểu rõ nguồn gốc của từng công thức. Từ đó, người học không chỉ dễ nhớ, nhớ lâu hơn mà còn chủ động áp dụng các công thức tính nhanh vào những bài toán trắc nghiệm đòi hỏi tốc độ trong các kỳ thi.
 
 Dự án này vừa là thành quả nghiên cứu trong thời gian qua, vừa là tài liệu hỗ trợ thiết thực cho việc tự học và nâng cao tư duy toán học.
+
+### Sản phẩm đầu ra
+
+Dự án gồm:
+
+1. File mã nguồn `.typ`.
+2. File PDF hoàn chỉnh.
+3. Thư mục hình ảnh và tài nguyên.
+4. File `README.md` hướng dẫn sử dụng và biên dịch dự án.
