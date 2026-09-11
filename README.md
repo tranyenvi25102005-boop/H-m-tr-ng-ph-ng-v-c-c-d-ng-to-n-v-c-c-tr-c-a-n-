@@ -51,7 +51,7 @@ Dự án gồm:
 * Tóm tắt những công thức đã chứng minh.
 * Tổng kết.
 ## 3. Kế hoạch thực hiện
-Tuần 1: Thu thập dữ liệu và tiến hành thực hiện phần 1,2 và 3.
-Tuần 2: Thực hiện phần 4 và tiến hành rà soát nội dung.
+[]Tuần 1: Thu thập dữ liệu và tiến hành thực hiện phần 1,2 và 3.
+[]Tuần 2: Thực hiện phần 4 và tiến hành rà soát nội dung.
 ## 4. Tài liệu tha khảo
 
