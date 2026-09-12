@@ -28,20 +28,14 @@ Dự án gồm:
 3. Thư mục hình ảnh và tài nguyên.
 4. File `README.md` hướng dẫn sử dụng và biên dịch dự án.
 
-## 2. Đề cương dự án
+## 2. NỘI DUNG
 
-### Phần 1. Bìa và phần mở đầu
 
-* Trang bìa.
-* Tên dự án.
-* Lý do chọn đề tài và mục tiêu của dự án.
-* Ký hiệu đã sử dụng.
-
-### Phần 2. Kiến thức cơ sở
+### Phần 1. Kiến thức cơ sở
 * Hàm trùng phương và cực trị.
 * Đồ thị của hàm trùng phương
 * Một số tính chất của hàm trùng phương.
-### Phần 3. Dạng toán về cực trị của hàm trùng phương 
+### Phần 2. Dạng toán về cực trị của hàm trùng phương 
 * Dạng toán về số cực trị.
 * Dạng toán về cực trị tạo thành các hình đặc biệt.
 * Dạng toán kết hợp tìm m.
@@ -50,13 +44,13 @@ Dự án gồm:
   1. Phương pháp giải.
   2. Công thức tính nhanh (nếu có).
   3. Ví dụ minh hoạ. 
-### Phần 4. Một số bài tập
-### Phần 5. Kết luận
+### Phần 3. Một số bài tập
+### Phần 4. Kết luận
 * Tóm tắt những công thức đã chứng minh.
 * Tổng kết.
 ## 3. Kế hoạch thực hiện
 ☐Tuần 1: Thu thập dữ liệu và tiến hành thực hiện phần 1,2 và 3.
 
 ☐Tuần 2: Thực hiện phần 4 và tiến hành rà soát nội dung.
-## 4. Tài liệu tha khảo
+## 4. Tài liệu tham khảo
 
