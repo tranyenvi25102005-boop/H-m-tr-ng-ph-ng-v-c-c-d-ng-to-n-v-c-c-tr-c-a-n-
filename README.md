@@ -36,8 +36,7 @@ Dự án gồm:
 * Đồ thị của hàm trùng phương
 * Một số tính chất của hàm trùng phương.
 ### Phần 2. Dạng toán về cực trị của hàm trùng phương 
-* Dạng toán về số cực trị.
-* Dạng toán về cực trị tạo thành các hình đặc biệt.
+* Dạng toán về cực trị hàm trùng phương.
 * Dạng toán kết hợp tìm m.
 
   Mỗi dạng bài gồm:
