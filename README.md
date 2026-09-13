@@ -25,7 +25,7 @@ Dự án gồm:
 
 1. File mã nguồn `.typ`.
 2. File PDF hoàn chỉnh.
-3. Thư mục hình ảnh và tài nguyên.
+3. Các file tex kèm theo.
 4. File `README.md` hướng dẫn sử dụng và biên dịch dự án.
 
 ## 2. NỘI DUNG
@@ -36,8 +36,9 @@ Dự án gồm:
 * Đồ thị của hàm trùng phương
 * Một số tính chất của hàm trùng phương.
 ### Phần 2. Dạng toán về cực trị của hàm trùng phương 
-* Dạng toán về cực trị hàm trùng phương.
-* Dạng toán kết hợp tìm m.
+* Nhận xét
+* Giao điểm với trục 0y
+* Một số công thức tính nhanh
 
   Mỗi dạng bài gồm:
   1. Phương pháp giải.
@@ -45,7 +46,6 @@ Dự án gồm:
   3. Ví dụ minh hoạ. 
 ### Phần 3. Một số bài tập
 ### Phần 4. Kết luận
-* Tóm tắt những công thức đã chứng minh.
 * Tổng kết.
 ## 3. Kế hoạch thực hiện
 ☐Tuần 1: Thu thập dữ liệu và tiến hành thực hiện phần 1,2 và 3.
