@@ -1,7 +1,7 @@
 #### Tác giả: TRẦN YẾN VI 
 
 ## 1. Giới thiệu về dự án 
-*Đây là một dư án về toán học được thực hiện bởi Trần Yến Vi*\
+*Đây là một dư án về toán học được thực hiện bởi Trần Yến Vi*
  ## TÌM HIỂU VỀ HÀM TRÙNG PHƯƠNG VÀ CÁC DẠNG TOÁN VỀ CỰC TRỊ CỦA NÓ
 Trong chương trình Toán học phổ thông, hàm trùng phương là một trong những hàm số cơ bản nhưng sở hữu nhiều tính chất hình học vô cùng phong phú và thú vị, đặc biệt là các vấn đề liên quan đến cực trị. Việc nắm vững cấu trúc và bài toán cực trị của hàm trùng phương không chỉ giúp củng cố tư duy phân tích đại số mà còn phát triển khả năng ứng dụng hình học trong giải toán.
 
