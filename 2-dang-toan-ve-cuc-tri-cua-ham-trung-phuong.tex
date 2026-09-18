@@ -1,18 +1,18 @@
-#include "main.typ"
 \section{Dạng toán về cực trị hàm trùng phương}
-
-\noindent \textbf{Hàm trùng phương:} \\
-Cho hàm số trùng phương $y = ax^4 + bx^2 + c$ ($a \neq 0$) có $ab < 0$. Đồ thị hàm số có 3 điểm cực trị tạo thành tam giác $ABC$ cân tại $A$:
+\noindent \textbf{Vẻ đẹp của hàm trùng phương:} \\
 \begin{itemize}
-    \item $A(0; c)$ thuộc trục tung.
-    \item $B\left(-\sqrt{-\dfrac{b}{2a}}; c - \dfrac{b^2}{4a}\right)$, \quad $C\left(\sqrt{-\dfrac{b}{2a}}; c - \dfrac{b^2}{4a}\right)$.
-    \item $BC^2 = -\dfrac{2b}{a}$, \quad $AB^2 = AC^2 = \dfrac{b^4 - 8ab}{16a^2}$.
-\end{itemize}
-\noindent Đặt : $\widehat{BAC} = \alpha$
+\item \textbf{Trong trường hợp các hệ số $a$ và $b$ trái dấu ($ab < 0$), phương trình đạo hàm cấp một $y' = 4ax^3 + 2bx = 2x(2ax^2 + b) = 0$ sinh ra đúng $3$ nghiệm thực phân biệt.}
+Đồ thị hàm số khi đó sở hữu ba điểm cực trị tạo thành một tam giác $ABC$ cân tại $A$, gồm đỉnh $A(0; c)$ luôn nằm cố định trên trục tung $Oy$ và hai đỉnh tự do $B\left(-\sqrt{-\dfrac{b}{2a}}; c - \dfrac{b^2}{4a}\right)$, $C\left(\sqrt{-\dfrac{b}{2a}}; c - \dfrac{b^2}{4a}\right)$.}
 
+Do tính chất hàm số chẵn ($f(-x) = f(x)$), hai hoành độ của $B$ và $C$ luôn đối nhau qua gốc tọa độ $O$ và có cùng tung độ. Sự kết hợp này làm cho đoạn thẳng $BC$ luôn song song với trục hoành $Ox$, nhận trục tung $Oy$ làm đường trung trực. Từ tọa độ các điểm, ta xác định được bình phương độ dài các cạnh của tam giác cực trị theo đại số là $BC^2 = -\dfrac{2b}{a}$ và $AB^2 = AC^2 = \dfrac{b^4 - 8ab}{16a^2}$.
+
+Đặc biệt, mối liên hệ giữa các cạnh và góc ở đỉnh $\alpha = \widehat{BAC}$ được thiết lập thông qua mối quan hệ toán học tổng quát vô cùng đẹp mắt:
 \[
-\text{Tổng quát: } \boxed{\cot^2 \frac{\alpha}{2} = \frac{-b^3}{8a}}
+\boxed{\cot^2 \frac{\alpha}{2} = \frac{-b^3}{8a}}
 \]
+Sự gắn kết chặt chẽ giữa đại số (các hệ số $a, b$) và hình học (tam giác cân $ABC$) này chính là tiền đề lý thuyết quan trọng nhất để chúng ta thiết lập các điều kiện chuyên sâu ở Chương 2 (như điều kiện tam giác cực trị vuông cân, tam giác đều, hay tam giác có diện tích cho trước) một cách tự nhiên mà không cần học thuộc lòng máy móc.
+
+\begin{center}
 \begin{tikzpicture}
   \begin{axis}[
     axis lines = center,
@@ -41,6 +41,7 @@ Cho hàm số trùng phương $y = ax^4 + bx^2 + c$ ($a \neq 0$) có $ab < 0$. �
     \node [below left] at (axis cs:0,0) {$O$};
   \end{axis}
 \end{tikzpicture}
+\end{center}
 \vspace{0.5cm}
 \subsection{Nhận xét:}
 $\Delta ABC$ cân tại $A$, có $A \in Oy$, $AB = AC = \sqrt{\dfrac{b^4 - 8ab}{16a^2}}$, $BC = \sqrt{\dfrac{-2b}{a}}$.
